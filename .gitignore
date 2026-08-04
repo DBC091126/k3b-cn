@@ -1,0 +1,14 @@
+# 编译产物
+build/
+*.o
+*.obj
+
+# 抓轨/镜像临时文件
+cdda.wav
+*.iso
+*.bin
+*.toc
+
+# 编辑器/系统
+*.swp
+.DS_Store
