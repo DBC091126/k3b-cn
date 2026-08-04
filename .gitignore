@@ -12,3 +12,5 @@ cdda.wav
 # 编辑器/系统
 *.swp
 .DS_Store
+*.deb
+*.tar.gz
